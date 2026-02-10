@@ -22,7 +22,7 @@ O dataset contém informações sobre diamantes, incluindo:
 
 Fonte dos dados:
 - Repositório público (FIAP):  
-  https://raw.githubusercontent.com/diogenesjusto/FIAP/master/Graduação/dados/diamonds.csv
+  https://github.com/diogenesjusto/FIAP/blob/9837b368c45359bc2c36863cf3622a4d784790b4/Gradua%C3%A7%C3%A3o/dados/diamonds.csv
 
 ## 🧠 Abordagem
 - Análise Exploratória de Dados (EDA)
