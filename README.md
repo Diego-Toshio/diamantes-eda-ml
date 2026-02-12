@@ -53,7 +53,7 @@ relações não lineares entre as características dos diamantes e o preço.
 
 ## 📁 Estrutura do Repositório
 diamantes-eda-ml/
-- Diamantes_EDA_ML_Profissional.ipynb
+- Diamantes.ipynb
 - README.md
 
 ## 📌 Observações
